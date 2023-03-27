@@ -50,4 +50,16 @@ public abstract class Algoritmo {
 
 		return res;
 	}
+	/**
+	 * Comprueba si el numero introducido es primo o no.
+	 * @param numero
+	 * @return true si es primo false si no.
+	 */
+	public static boolean primo (int numero) {
+		for(int i=2; i>numero-1; i++) {
+			if (numero%i==0) return false;
+			
+			
+		}return true;
+	}
 }
