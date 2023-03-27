@@ -14,5 +14,6 @@ public class mainAlgoritmos {
 			resultadoFactorial[i] = Algoritmo.factorial(numeros[i]);
 			resultadoPrimos[i] = Algoritmo.primo(numeros[i]);
 		}
+		
 	}
 }
