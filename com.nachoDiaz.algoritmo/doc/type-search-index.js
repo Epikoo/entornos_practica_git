@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.nachoDiaz.algoritmo","l":"Algoritmo"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"}];updateSearchResults();

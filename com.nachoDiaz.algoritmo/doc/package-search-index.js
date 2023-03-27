@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"com.nachoDiaz.algoritmo","l":"com.nachoDiaz.algoritmo"}];updateSearchResults();

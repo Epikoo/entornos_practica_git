@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.nachoDiaz.algoritmo","c":"Algoritmo","l":"Algoritmo()","u":"%3Cinit%3E()"},{"p":"com.nachoDiaz.algoritmo","c":"Algoritmo","l":"factorial(int)"},{"p":"com.nachoDiaz.algoritmo","c":"Algoritmo","l":"fibonacci(int)"},{"p":"com.nachoDiaz.algoritmo","c":"Algoritmo","l":"primo(int)"}];updateSearchResults();
