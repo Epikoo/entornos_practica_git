@@ -1,6 +1,6 @@
 package com.nachoDiaz.algoritmo;
 
-public class mainAlgoritmos {
+public class Principal {
 
 	public static void main(String[] args) {
 		// TODO Apéndice de método generado automáticamente
@@ -14,6 +14,5 @@ public class mainAlgoritmos {
 			resultadoFactorial[i] = Algoritmo.factorial(numeros[i]);
 			resultadoPrimos[i] = Algoritmo.primo(numeros[i]);
 		}
-		
 	}
 }
