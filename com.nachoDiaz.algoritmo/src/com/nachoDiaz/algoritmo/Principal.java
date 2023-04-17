@@ -3,7 +3,6 @@ package com.nachoDiaz.algoritmo;
 public class Principal {
 
 	public static void main(String[] args) {
-		// TODO Apéndice de método generado automáticamente
 		int numeros[] = new int[5];
 		long resultadoFibonacci[] = new long[numeros.length];
 		long resultadoFactorial[] = new long[numeros.length];
