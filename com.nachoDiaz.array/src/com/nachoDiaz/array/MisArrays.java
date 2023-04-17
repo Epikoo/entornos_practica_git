@@ -44,4 +44,16 @@ public abstract class MisArrays {
 		}
 		return mayor;
 	}
+	/*
+	 * Devuelve el numero menor del array
+	 * @param Un array de numeros enteros del que se saca el menor
+	 * @return Devuelve el menor del array
+	 */
+	public static int mini(int[] arra) {
+		int menor=9999;
+		for (int numerito:arra) {
+			if (numerito<menor) menor=numerito;
+		}
+		return menor;
+	}
 }
