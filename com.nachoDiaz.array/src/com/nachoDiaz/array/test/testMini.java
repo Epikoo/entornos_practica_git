@@ -15,8 +15,8 @@ class testMini {
 	}
 	@Test
 	void test() {
-		assertEquals(MisArrays.maxi(array1) , 1);
-		assertEquals(MisArrays.maxi(array2) , 3);
-		assertEquals(MisArrays.maxi(array3) , 1);
+		assertEquals(MisArrays.mini(array1) , 1);
+		assertEquals(MisArrays.mini(array2) , 3);
+		assertEquals(MisArrays.mini(array3) , 1);
 	}
 }
